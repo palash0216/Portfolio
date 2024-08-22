@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    margin: 0;
+    /* background-color: #f0f0f0; */
+    background-image: url("https://th.bing.com/th/id/R.c3541edea2e8eefacf45618bbe83e798?rik=D8bsuKtTS5jE6g&riu=http%3a%2f%2fs1.picswalls.com%2fwallpapers%2f2016%2f06%2f10%2fawesome-4k-wallpaper_065234330_309.jpg&ehk=ZdGS61vGH1hSQUtnpjEGWHGIAt56oafoD98SW309Mbs%3d&risl=1&pid=ImgRaw&r=0");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.circular-button {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s;
+}
+
+.circular-button:hover {
+    background-color: #245f27;
+}
