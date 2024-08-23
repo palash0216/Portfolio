@@ -24,14 +24,14 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
-  color: #0d0d0d;
+  color: #ffffff;
   -webkit-font-smoothing: antialiased;
-  background-color: #b7d9ec;
+  background-color: #232222;
 
 }
 
 body.dev {
-  background: #ac3030;
+  background: #ffffff;
   min-height: 10000px;
 }
 
@@ -5884,16 +5884,16 @@ container {
 .certificates-table th,
 .certificates-table td {
   padding: 5px;
-  border: 2px solid #923535;
+  border: 2px solid #ffffff;
   cursor: pointer;
 }
 
 .certificates-table th {
-  background-color: #b8e0c7;
+  background-color: #9ce2b7;
 }
 
 .certificates-table td {
-  background-color: #e3e6c7;
+  background-color: #bcbead;
 }
 
 .certificate-popup {
@@ -5934,4 +5934,16 @@ container {
   background-position: center;
   /* Centers the background image within the element */
   /* Add any additional styles for the background image */
+}
+.box {
+  text-decoration: dotted;
+  width: 300px; /* Width of the box */
+  height: 200px; /* Height of the box (optional) */
+  border: 0px; /* Border around the box */
+  background-color: none; /* Background color */
+  padding: 20px; /* Space inside the box */
+  margin: 20px auto; /* Center the box and add margin */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for some depth */
+  border-radius: 10px; /* Optional: Rounded corners */
+  text-align: center; /* Optional: Center the text */
 }
