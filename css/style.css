@@ -5918,8 +5918,8 @@ container {
 
 .bgi {
   /* Your existing styles */
-  
-  background-color: #f5a1a1;
+  color: #0d0d0d;
+  background-color: #eed5bb;
   background-size: cover;
   /* Adjusts the size of the background image to cover the entire element */
   background-position: center;

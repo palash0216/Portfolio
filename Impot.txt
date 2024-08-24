@@ -1,0 +1,15 @@
+	<div class="container px-xl-0">
+		<div class="row justify-content-center align-items-center">
+			<!-- Text Column -->
+			<div class="col-lg-6 text-center" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">
+				<h2>When you give up, your dreams and everything else they're gone.</h2>
+				<br>
+				<h3>-Naruto</h3>
+			</div>
+
+			<!-- Image Column -->
+			<div class="col-lg-6 text-center">
+				<img src="Images/Naruto.png" alt="" class="img-fluid">
+			</div>
+		</div>
+	</div>
